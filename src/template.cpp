@@ -1,11 +1,12 @@
 #include <bits/stdc++.h>
 
-using namespace std;
+inline void FastIO()
+{
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+}
 
 int main() 
 {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-
-    
+    FastIO();
 }
